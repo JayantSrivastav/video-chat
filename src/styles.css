@@ -1,0 +1,17 @@
+
+body {
+    background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.3), 
+      rgba(0, 0, 0, 0.3)
+    ),
+    url(https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30697.jpg?t=st=1732812721~exp=1732816321~hmac=cea0f8b246db3e96ad53e8500b6f037ce4d9b283ebb77a9c4a03ca86fa50d2be&w=740);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
